@@ -1,0 +1,1 @@
+module.exports = { port: 8888, dbConnectionString: 'mongodb://127.0.0.1/sampleDb' };
